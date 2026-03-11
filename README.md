@@ -1,2 +1,2 @@
 # PortfolioCsharp
-Estou aprendendo C# aqui vou colocar alguns dos meus projetos.
+Estou aprendendo C#,aqui irei colocar alguns dos meus projetos.
